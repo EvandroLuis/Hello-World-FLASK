@@ -1,0 +1,28 @@
+.menu-link {
+    margin-right: 10px;
+    color: white;
+}
+
+#homepage-title {
+    font-family: 'Andada', serif;
+    font-size: 90px;
+    color: white;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#homepage-subtitle {
+    font-family: 'Dancing Script', cursive;
+    font-size: 37px;
+    color: white;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.background {
+    background-color: #ffa09d;
+    background-image: url('/static/dg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 62% 31%;
+}
